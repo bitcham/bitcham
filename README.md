@@ -1,4 +1,4 @@
-<h1 align="center">Life is a game🎮 I'm Chambit Oh</h1>
+<h1 align="center">Chambit Oh</h1>
 <h3 align="center">Interested in becoming a Full stack or Backend developer</h3>
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
