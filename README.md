@@ -1,5 +1,5 @@
 <h1 align="center">Hi✋ I'm Chambit Oh</h1>
-<h3 align="center">Interested in a Full stack or Backend developer</h3>
+<h3 align="center"></h3>
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
