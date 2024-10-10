@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
-- 🌱 I’m currently learning **Algorithm in C++ and java**
+- 🌱 I’m currently learning **Java and Algorithms in C++**
 
 - 📫 How to reach me **chambit.oh@gmail.com**
 
