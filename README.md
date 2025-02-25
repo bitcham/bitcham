@@ -1,4 +1,4 @@
-<h3 align="center">Passionate about Full Stack & ML</h3>
+<h3 align="center">Passionate about Full Stack(Specialized in Back-end) & ML</h3>
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
