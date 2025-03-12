@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently building the website "track calories that has been taken and training plans"
 
+- 📰 My blog **https://bitcham.blogspot.com/**
+
 - 📫 How to reach me **chambit.oh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
