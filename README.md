@@ -2,8 +2,6 @@
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
-- 🌱 I’m currently building the website "track calories that has been taken and training plans"
-
 - 📰 My blog **https://bitcham.blogspot.com/**
 
 - 📫 How to reach me **chambit.oh@gmail.com**
