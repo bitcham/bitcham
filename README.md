@@ -1,4 +1,4 @@
-<h3 align="center">Backend Engineer(Java)</h3>
+<h3 align="center">Backend Engineer</h3>
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
