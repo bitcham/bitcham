@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
-- 🌱 I’m currently working on **jokahobby**
+- 🌱 I’m currently working on **splearn**
 
 - 📝 I regularly write blogs on [https://bitcham.blogspot.com/](https://bitcham.blogspot.com/)
 
