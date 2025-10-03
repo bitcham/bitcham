@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently working on **personal project**
 
-- 📝 I regularly write blogs on [https://bitcham.blogspot.com/](https://bitcham.blogspot.com/)
-
 - 📫 How to reach me **chambit.oh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
