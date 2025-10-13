@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
-- 🌱 I’m currently working on **personal project**
+- 🌱 I’m currently working on **bookora**
 
 - 📫 How to reach me **chambit.oh@gmail.com**
 
