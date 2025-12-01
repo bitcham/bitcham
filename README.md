@@ -2,7 +2,7 @@
 
 - 🏫 I’m currently studying software engineering at **Tampere University of Applied Sciences**
 
-- 🌱 I’m currently working on **bookora and ecommerce**
+- 🌱 I’m currently working on **restaurant-hunt** to adapt to C#/Asp.net
 
 - 📫 How to reach me **chambit.oh@gmail.com**
 
